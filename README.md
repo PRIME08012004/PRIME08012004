@@ -7,7 +7,7 @@
 
 **Full Stack Developer** · Mumbai, India
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=Eat.%20Sleep.%20Code.%20Repeat.;Building+AI-powered+products.;Shipping+ideas+into+the+world." alt="Typing animation: Eat. Sleep. Code. Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=Eat.%20Sleep.%20Code.%20Repeat.;Building+AI-powered+products.;Shipping+ideas+into+the+world." alt="Typing animation:" />
 
 <br/>
 
