@@ -1,38 +1,79 @@
-<table>
-  <tr>
-    <td valign="middle">
-      <h1>Hey, I'm Omkar 👋</h1>
-      <p><strong>Full Stack Developer</strong> · Mumbai, India</p>
-      <p>I build web applications, developer tools, and AI-powered products.</p>
-      <p>
-        <a href="https://omkarshirsekar.me"><img src="https://img.shields.io/badge/Portfolio-visit-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-        <a href="https://linkedin.com/in/omkar-shirsekar"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="mailto:iamomkar0007@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-      </p>
-    </td>
-    <td align="center" valign="middle" width="230">
-      <img src="assets/developer-sleep-coding.gif" width="190" alt="A developer coding, then falling asleep at the keyboard">
-    </td>
-  </tr>
-</table>
+<!-- Profile README · Omkar Shirsekar -->
+<div align="center">
+
+<img src="assets/eat-sleep-code.gif" width="320" alt="Omkar cycling through coding, eating, and sleeping at his desk" />
+
+# Hey, I'm Omkar
+
+**Full Stack Developer** · Mumbai, India
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=Eat.%20Sleep.%20Code.%20Repeat.;Building+AI-powered+products.;Shipping+ideas+into+the+world." alt="Typing animation: Eat. Sleep. Code. Repeat." />
+
+<br/>
+
+<a href="https://omkarshirsekar.me"><img src="https://img.shields.io/badge/Portfolio-omkarshirsekar.me-0f1218?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/omkar-shirsekar"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:iamomkar0007@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/PRIME08012004"><img src="https://img.shields.io/badge/GitHub-PRIME08012004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+---
+
+## About me
+
+I build web apps, developer tools, and AI-powered products — from real-time editors to booking platforms and sentiment engines. Currently pursuing **B.E. Computer Engineering** at Mumbai University.
+
+Contributed to open source: **[Kestra](https://github.com/kestra-io/kestra)** — [merged PR #19938](https://github.com/kestra-io/kestra/pull/19938).
+
+---
 
 ## Featured projects
 
 | Project | What it does | Links |
 |:--|:--|:--|
-| **LOOP** | AI-powered feedback and sentiment analysis | [Live site](https://loop.omkarshirsekar.me) · [Source](https://github.com/PRIME08012004/loop) |
-| **CodeNest** | Real-time collaborative code editor | [Live site](https://codenest.omkarshirsekar.com) · [Source](https://github.com/PRIME08012004/CodeNest) |
-| **Vivace** | Salon booking platform | [Live site](https://vivace-khaki.vercel.app/) · [Source](https://github.com/PRIME08012004/Vivace) |
-| **Quendora** | Secure AI-powered journal | [Live site](https://quendora.vercel.app) |
+| **LOOP** | AI-powered feedback & sentiment analysis | [Live](https://loop.omkarshirsekar.me) · [Source](https://github.com/PRIME08012004/loop) |
+| **CodeNest** | Real-time collaborative code editor | [Live](https://codenest.omkarshirsekar.com) · [Source](https://github.com/PRIME08012004/CodeNest) |
+| **Vivace** | Salon booking platform | [Live](https://vivace-khaki.vercel.app/) · [Source](https://github.com/PRIME08012004/Vivace) |
+| **Quendora** | Secure AI-powered journal | [Live](https://quendora.vercel.app) |
 
-## Open source
+---
 
-Contributed to **[Kestra](https://github.com/kestra-io/kestra)** — [view my merged pull request](https://github.com/kestra-io/kestra/pull/19938).
+## GitHub pulse
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PRIME08012004&show_icons=true&theme=transparent&hide_border=true&bg_color=0f1218&title_color=2DD4BF&icon_color=2DD4BF&text_color=E5E7EB&ring_color=2DD4BF" alt="Omkar's GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=PRIME08012004&theme=dark&hide_border=true&background=0F1218&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIME08012004&layout=compact&theme=transparent&hide_border=true&bg_color=0f1218&title_color=2DD4BF&text_color=E5E7EB" alt="Top languages" />
+</div>
+
+---
 
 ## Tech I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,postgres,mongodb,prisma,docker,aws,java,spring&theme=dark" alt="React, Next.js, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Prisma, Docker, AWS, Java, and Spring">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,postgres,mongodb,prisma,docker,aws,java,spring&theme=dark" alt="React, Next.js, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Prisma, Docker, AWS, Java, Spring" />
+</div>
 
-<p align="center"><sub>B.E. Computer Engineering · Mumbai University</sub></p>
+---
+
+<div align="center">
+
+### The loop never stops
+
+<img src="assets/frame-coding.png" width="120" alt="Coding" />
+&nbsp;
+<img src="assets/frame-eating.png" width="120" alt="Eating" />
+&nbsp;
+<img src="assets/frame-sleeping.png" width="120" alt="Sleeping" />
+
+<br/><br/>
+
+<sub>B.E. Computer Engineering · Mumbai University</sub>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=PRIME08012004&label=Profile%20views&color=2dd4bf&style=flat" alt="Profile views" />
+
+</div>
