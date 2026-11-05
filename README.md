@@ -9,7 +9,9 @@ I build web applications, developer tools, and AI-powered products using React, 
 ---
 
 ### Selected work
-
+<p align="center">
+  <img src="assets/developer.gif" width="180" alt="Developer coding and sleeping">
+</p>
 | Project | Description | |
 |:--|:--|:--|
 | **LOOP** | AI-powered feedback & sentiment analysis | [Live ↗](https://loop.omkarshirsekar.me) · [Code](https://github.com/PRIME08012004/loop) |
