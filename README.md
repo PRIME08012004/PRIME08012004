@@ -46,12 +46,12 @@ Contributed to **[Kestra](https://github.com/kestra-io/kestra)** — [merged PR 
 ## GitHub pulse
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PRIME08012004&show_icons=true&theme=transparent&hide_border=true&bg_color=0f1218&title_color=2DD4BF&icon_color=2DD4BF&text_color=E5E7EB&ring_color=2DD4BF" alt="Omkar's GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=PRIME08012004&show_icons=true&theme=transparent&hide_border=true&bg_color=0f1218&title_color=2DD4BF&icon_color=2DD4BF&text_color=E5E7EB&ring_color=2DD4BF" alt="Omkar's GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=PRIME08012004&theme=dark&hide_border=true&background=0F1218&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIME08012004&layout=compact&theme=transparent&hide_border=true&bg_color=0f1218&title_color=2DD4BF&text_color=E5E7EB" alt="Top languages" />
+  <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PRIME08012004&layout=compact&theme=transparent&hide_border=true&bg_color=0f1218&title_color=2DD4BF&text_color=E5E7EB" alt="Top languages" />
 </div>
 
 ---
