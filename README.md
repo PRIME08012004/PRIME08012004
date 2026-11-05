@@ -22,7 +22,13 @@
 
 I build web apps, developer tools, and AI-powered products — from real-time editors to booking platforms and sentiment engines. Currently pursuing **B.E. Computer Engineering** at Mumbai University.
 
-Contributed to open source: **[Kestra](https://github.com/kestra-io/kestra)** — [merged PR #19938](https://github.com/kestra-io/kestra/pull/19938).
+---
+
+### Open Source Contributions
+
+Contributed to **[Kestra](https://github.com/kestra-io/kestra)** — [merged PR #19938](https://github.com/kestra-io/kestra/pull/19938).
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
 ---
 
