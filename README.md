@@ -7,8 +7,6 @@
 
 **Full Stack Developer** · Mumbai, India
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&;Building+AI-powered+products.;Shipping+ideas+into+the+world." alt="Typing animation:" />
-
 <br/>
 
 <a href="https://omkarshirsekar.me"><img src="https://img.shields.io/badge/Portfolio-omkarshirsekar.me-0f1218?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
