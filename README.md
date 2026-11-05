@@ -1,7 +1,7 @@
 <!-- Profile README · Omkar Shirsekar -->
 <div align="center">
 
-<img src="assets/eat-sleep-code.gif" width="320" alt="Omkar cycling through coding, eating, and sleeping at his desk" />
+<img src="assets/pixel-dev-loop.gif" width="280" alt="Pixel art developer coding then falling asleep at the laptop" />
 
 # Hey, I'm Omkar
 
@@ -61,19 +61,7 @@ Contributed to open source: **[Kestra](https://github.com/kestra-io/kestra)** �
 ---
 
 <div align="center">
-
-### The loop never stops
-
-<img src="assets/frame-coding.png" width="120" alt="Coding" />
-&nbsp;
-<img src="assets/frame-eating.png" width="120" alt="Eating" />
-&nbsp;
-<img src="assets/frame-sleeping.png" width="120" alt="Sleeping" />
-
-<br/><br/>
-
-<sub>B.E. Computer Engineering · Mumbai University</sub>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=PRIME08012004&label=Profile%20views&color=2dd4bf&style=flat" alt="Profile views" />
-
+  <sub>B.E. Computer Engineering · Mumbai University</sub>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PRIME08012004&label=Profile%20views&color=2dd4bf&style=flat" alt="Profile views" />
 </div>
