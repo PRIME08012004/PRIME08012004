@@ -20,7 +20,7 @@
 
 ## About me
 
-I build web apps, developer tools, and AI-powered products — from real-time editors to booking platforms and sentiment engines. Currently pursuing **B.E. Computer Engineering** at Mumbai University.
+I build web apps, developer tools, and AI-powered products — from real-time editors to booking platforms and sentiment engines.
 
 ---
 
